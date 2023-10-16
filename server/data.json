@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "ASUS ROG",
+      "price": 150000,
+      "stock": 5,
+      "type": "laptop"
+    },
+    {
+      "id": 2,
+      "name": "Dell Alienware",
+      "price": 150000,
+      "stock": 5,
+      "type": "laptop"
+    },
+    {
+      "name": "Acer Nitro",
+      "type": "Laptop",
+      "price": "10000000",
+      "stock": "15",
+      "id": 3
+    }
+  ]
+}
